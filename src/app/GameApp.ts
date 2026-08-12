@@ -74,7 +74,6 @@ export class GameApp {
     this.view.eastWestButton.addEventListener("click", () => this.requestPhase("EAST_WEST"));
     this.view.soundButton.addEventListener("click", this.toggleSound);
     this.view.stageOneButton.addEventListener("click", () => this.selectStage(1));
-    this.view.stageTwoButton.addEventListener("click", () => this.selectStage(2));
     window.addEventListener("keydown", this.handleKeydown);
     document.addEventListener("visibilitychange", this.handleVisibilityChange);
   }
