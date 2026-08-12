@@ -1,0 +1,20 @@
+import { defineConfig } from "vitest/config";
+
+export default defineConfig({
+  server: {
+    host: "0.0.0.0",
+    port: 5188,
+    strictPort: true,
+  },
+  preview: {
+    host: "0.0.0.0",
+    port: 4188,
+    strictPort: true,
+  },
+  test: {
+    include: ["src/**/*.test.ts"],
+    coverage: {
+      include: ["src/game/**/*.ts", "src/storage/**/*.ts"],
+    },
+  },
+});

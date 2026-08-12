@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "name": "Project-generated game sprites",
+      "url": "local-project-asset",
+      "license": "Project-owned generated asset",
+      "licenseFile": "/assets/License-Generated-Assets.txt",
+      "files": [
+        "/assets/racing/ambulance.png"
+      ]
+    },
+    {
+      "name": "Kenney Racing Pack",
+      "url": "https://kenney.nl/assets/racing-pack",
+      "license": "CC0-1.0",
+      "licenseFile": "/assets/License-Racing-Pack.txt",
+      "files": [
+        "/assets/racing/arrow_white.png",
+        "/assets/racing/barrier_white_race.png",
+        "/assets/racing/car_black_1.png",
+        "/assets/racing/car_blue_1.png",
+        "/assets/racing/car_green_1.png",
+        "/assets/racing/car_red_1.png",
+        "/assets/racing/car_yellow_1.png",
+        "/assets/racing/cone_straight.png",
+        "/assets/racing/land_grass11.png",
+        "/assets/racing/rock1.png",
+        "/assets/racing/rock2.png",
+        "/assets/racing/skidmark_short_1.png",
+        "/assets/racing/tree_large.png",
+        "/assets/racing/tree_small.png"
+      ]
+    },
+    {
+      "name": "Kenney New Platformer Pack",
+      "url": "https://kenney.nl/assets/new-platformer-pack",
+      "license": "CC0-1.0",
+      "licenseFile": "/assets/License-New-Platformer-Pack.txt",
+      "files": [
+        "/assets/sounds/sfx_bump.ogg",
+        "/assets/sounds/sfx_coin.ogg",
+        "/assets/sounds/sfx_hurt.ogg",
+        "/assets/sounds/sfx_magic.ogg",
+        "/assets/sounds/sfx_select.ogg"
+      ]
+    }
+  ]
+}

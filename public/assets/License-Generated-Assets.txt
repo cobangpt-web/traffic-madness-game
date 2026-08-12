@@ -1,0 +1,5 @@
+Ambulance sprite
+
+Created for the Traffic Madness project with OpenAI image generation at the
+user's direction on 2026-08-12. The project owner may use, modify, and
+distribute this generated asset with the game.
