@@ -103,7 +103,7 @@ export class DomView {
       this.stageRuleOne.textContent = "웨이브가 올라갈수록 차량이 더 빠르게 몰려옵니다.";
       this.stageRuleTwo.textContent = "웨이브를 넘길 때마다 +300점, 정체가 쌓이면 즉시 감점됩니다.";
     } else {
-      this.startLead.textContent = "두 신호를 바꿔 60초 동안 차를 최대한 많이 통과시키세요.";
+    this.startLead.textContent = "신호를 바꿔, 폭주하는 교차로를 버텨라.";
       this.stageRuleOne.textContent = "남북·동서 버튼으로 녹색 방향을 바꿉니다.";
       this.stageRuleTwo.textContent = "교차로가 비기 전에 바꾸면 차가 충돌합니다.";
     }

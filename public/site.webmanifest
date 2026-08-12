@@ -1,6 +1,6 @@
 {
-  "name": "신호등 대환장",
-  "short_name": "대환장",
+  "name": "교통지옥 60초",
+  "short_name": "교통지옥",
   "lang": "ko",
   "start_url": "/",
   "display": "standalone",
